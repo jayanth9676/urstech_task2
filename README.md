@@ -9,11 +9,11 @@ CODING TASK BY `URSTECH`
 - CHECKOUT THE VIDEO: https://drive.google.com/file/d/1RI7RRy2gOwcxT626xABrwp6qGsyhUeQ5/view?usp=sharing
 
 ## TECH STACK USED:
-```
-NEXTJS
-SHADCN: https://ui.shadcn.com/docs
-TAILWIND CSS
-```
+
+- [Next.js](https://nextjs.org)
+- [shadcn](https://ui.shadcn.com/docs)
+- [tailwind css](https://tailwindcss.com/)
+
 
 ## Getting Started
 
