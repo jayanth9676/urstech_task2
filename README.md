@@ -4,6 +4,13 @@ CODING TASK BY `URSTECH` TASK 1: https://github.com/jaynth9676/urstech
 THIS IS TASK 2, UI FOR A DASHBOARD
 CHECKOUT THE VIDEO: https://drive.google.com/file/d/1RI7RRy2gOwcxT626xABrwp6qGsyhUeQ5/view?usp=sharing
 
+TECH STACK USED:
+```
+NEXTJS
+SHADCN: https://ui.shadcn.com/docs
+TAILWIND CSS
+```
+
 ## Getting Started
 
 First, run the development server:
